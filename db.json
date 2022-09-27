@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Rajath",
+      "email": "rajath@gmail.com",
+      "mobile": "7887654333",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Virat",
+      "email": "virat@gmail.com",
+      "mobile": "8776908910",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "name": "Megha",
+      "email": "megha@gmail.com",
+      "mobile": "8766544320",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "Raksha R Kademani",
+      "email": "raksha.rk14@gmail.com",
+      "mobile": "9591617518",
+      "status": "active"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

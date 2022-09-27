@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: true, 
+  // userapi:"  http://localhost:3000/users"
+  userapi:"https://heroku-json-server-crud.herokuapp.com/posts"
+ 
 };
 
 /*

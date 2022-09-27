@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  userapi:"https://heroku-json-server-crud.herokuapp.com/posts"
 };
